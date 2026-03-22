@@ -1,16 +1,91 @@
-## Hi there 👋
+# Hi there 👋, I'm Sahaj Jot Singh
 
-<!--
-**sahaj9897/sahaj9897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer | B.Tech Electrical Engineering Student | Problem Solver
 
-Here are some ideas to get you started:
+I’m a passionate developer who loves building real-world web applications and solving DSA problems.
+Currently focused on **MERN Stack**, **real-time communication apps**, and **college-focused platforms**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+* 🎓 B.Tech in **Electrical Engineering**
+* 🏫 2nd Year Student at **MNNIT Allahabad**
+* 💻 Learning and building with **MERN Stack**
+* ⚡ Interested in **real-time systems**, **Socket.IO**, **WebRTC**, and **system design**
+* 🧠 Strong interest in **DSA / Competitive Programming**
+* 🚀 Currently building an **education platform** and a **college-specific communication app**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Database
+
+* MongoDB
+
+### Real-Time / Advanced
+
+* Socket.IO
+* WebSockets
+* WebRTC
+* JWT Authentication
+
+### Tools
+
+* Git
+* GitHub
+* Postman
+* VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🎓 Education App
+
+A platform where teachers can upload courses and students can access learning content.
+**Tech:** React, Node.js, Express, MongoDB
+
+### 🏫 College-Specific Communication App
+
+A smart campus platform with chat, announcements, communities, and video call integration.
+**Tech:** MERN, Socket.IO, WebRTC
+
+### 📝 React Notepad / Productivity Project
+
+A beginner-friendly project focused on building useful browser-based productivity tools.
+
+---
+
+## 📈 GitHub Stats
+
+![Sahaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahaj9897\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahaj9897\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+* GitHub: https://github.com/sahaj9897
+* LinkedIn: [Add your LinkedIn link here]
+
+---
+
+## ✨ Quote
+
+> “Build projects. Solve problems. Keep improving.”
