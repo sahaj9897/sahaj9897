@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sahaj Jot Singh
 
-### 🚀 Full Stack Developer | B.Tech Electrical Engineering Student | Problem Solver
+### 🚀 Full Stack Developer | B.Tech Student | Problem Solver
 
 I’m a passionate developer who loves building real-world web applications and solving DSA problems.
 Currently focused on **MERN Stack**, **real-time communication apps**, and **college-focused platforms**.
@@ -10,7 +10,7 @@ Currently focused on **MERN Stack**, **real-time communication apps**, and **col
 ## 👨‍💻 About Me
 
 * 🎓 B.Tech in **Electrical Engineering**
-* 🏫 2nd Year Student at **MNNIT Allahabad**
+* 🏫 pre-final Year Student at **MNNIT Allahabad**
 * 💻 Learning and building with **MERN Stack**
 * ⚡ Interested in **real-time systems**, **Socket.IO**, **WebRTC**, and **system design**
 * 🧠 Strong interest in **DSA / Competitive Programming**
@@ -82,7 +82,7 @@ A beginner-friendly project focused on building useful browser-based productivit
 ## 🌐 Connect With Me
 
 * GitHub: https://github.com/sahaj9897
-* LinkedIn: [Add your LinkedIn link here]
+* LinkedIn: [[Add your LinkedIn link here]](https://www.linkedin.com/in/sahaj9897/)
 
 ---
 
