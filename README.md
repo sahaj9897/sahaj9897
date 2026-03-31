@@ -71,18 +71,10 @@ A beginner-friendly project focused on building useful browser-based productivit
 
 ---
 
-## 📈 GitHub Stats
-
-![Sahaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahaj9897\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahaj9897\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
 * GitHub: https://github.com/sahaj9897
-* LinkedIn: [[Add your LinkedIn link here]](https://www.linkedin.com/in/sahaj9897/)
+* LinkedIn: https://www.linkedin.com/in/sahaj9897/
 
 ---
 
